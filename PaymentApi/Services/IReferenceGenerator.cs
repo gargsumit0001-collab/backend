@@ -1,0 +1,1 @@
+namespace PaymentApi.Services { public interface IReferenceGenerator { Task<string> GenerateAsync(); } }

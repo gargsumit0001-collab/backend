@@ -1,0 +1,1 @@
+namespace PaymentApi.Services { public interface IPaymentGatewayFactory { IPaymentGateway GetGateway(string? provider); } }
